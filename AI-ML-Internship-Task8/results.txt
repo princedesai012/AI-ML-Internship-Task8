@@ -1,0 +1,2 @@
+Silhouette Score: 0.555
+Number of clusters: 5
